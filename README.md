@@ -2,6 +2,8 @@
 
 A deep research assistant designed to help users discover and analyze information effortlessly. It leverages intelligent tools and a streamlined interface to provide insightful, real-time research capabilities.
 
+To have a look - http://127.0.0.1:7860/
+
 ## Features
 
 - 🔍 Deep research and document analysis  
